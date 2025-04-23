@@ -1,4 +1,4 @@
-# igerian Railway Maintenance Records (Excel Data Cleaning Project)
+# igerian Railway Maintenance Records (Excel Case Study)
 A data cleaning project focused on standardizing and correcting a vehicle maintenance dataset from Nigerian Railway operations, using Excel to enhance data quality for future analysis.
 
 # Project Overview
