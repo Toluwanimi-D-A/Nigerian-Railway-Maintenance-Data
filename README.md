@@ -2,7 +2,7 @@
 A data cleaning project focused on standardizing and correcting a vehicle maintenance dataset from Nigerian Railway operations, using Excel to enhance data quality for future analysis.
 
 # Project Overview
-This project involves cleaning and preparing Nigerian Railway vehicle maintenance data using Microsoft Excel. The focus was on correcting errors, addressing missing values, and ensuring consistency across the dataset.
+This capstone project ocused on cleaning and preparing Nigerian Railway vehicle maintenance data using Microsoft Excel for analysis. The focus was on correcting errors, addressing missing values, and ensuring consistency across the dataset. 
 
 # Objective
 To improve dataset integrity and structure for accurate analysis and reporting.
